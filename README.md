@@ -1,2 +1,2 @@
 # Biodiversity
-Javascript visualizations using Plotly
+Javascript visualizations using Plotly and APIs/JSON
